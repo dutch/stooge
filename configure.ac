@@ -1,5 +1,5 @@
 AC_PREREQ([2.69])
-AC_INIT([stooge], [0.1], [clamberson@gmail.com])
+AC_INIT([stooge], [0.2], [clamberson@gmail.com])
 AC_CONFIG_SRCDIR([src/stooge.c])
 AC_CONFIG_AUX_DIR([build-aux])
 AM_INIT_AUTOMAKE([1.15 foreign tar-pax subdir-objects -Wall -Werror])
